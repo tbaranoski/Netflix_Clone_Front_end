@@ -1,3 +1,10 @@
+# Demo Project by following Tutorial
+https://www.youtube.com/watch?v=b9eMGE7QtTk
+scr: https://gist.github.com/adrianhajdin/997a8cdf94234e889fa47be89a4759f1
+
+# Install Dependencies Using Requirements.txt
+```pip install -r requirements.txt```
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
