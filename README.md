@@ -1,6 +1,7 @@
 # Demo Project by following Tutorial
-https://www.youtube.com/watch?v=b9eMGE7QtTk
-scr: https://gist.github.com/adrianhajdin/997a8cdf94234e889fa47be89a4759f1
+*Not my work, simply practicing react skills from tutorial*
+Tutorial: https://www.youtube.com/watch?v=b9eMGE7QtTk
+Tutoril github: : https://gist.github.com/adrianhajdin/997a8cdf94234e889fa47be89a4759f1
 
 # Install Dependencies Using Requirements.txt
 ```pip install -r requirements.txt```
